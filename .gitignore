@@ -1,0 +1,11 @@
+# Vivado auto-generated files
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.backup.*
+dfx_runtime.txt
